@@ -21,3 +21,6 @@ In this repository I collected just few of the projects that I had the chance to
     > Tackling a typical NLP task (text classification) with a shallow classifier without the usage of RNNs/Transformers architectures. 
 6. __Algorithms__:
     > Leveraging fingerprint hashing and LSH bucketing to build an efficient song identifier.
+7. __RL__:
+    > Implementing a self-attention agent trained through neuroevolutionary algorithm to cope with OpenAI Gym environment CarRacing-v2.
+
