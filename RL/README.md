@@ -1,1 +1,1 @@
-# DL & AI Final Project : Neuro-evolution of Self-interpretable agent
+# DL & AI Final Project : Neuroevolution of Self-interpretable agent
