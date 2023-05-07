@@ -23,4 +23,7 @@ In this repository I collected just few of the projects that I had the chance to
     > Leveraging fingerprint hashing and LSH bucketing to build an efficient song identifier.
 7. __RL__:
     > Implementing a self-attention agent trained through neuroevolutionary algorithm to cope with OpenAI Gym environment CarRacing-v2.
+. __HandWritten image text generation__:
+    > Implementing two different SOTA handwritten text images generators to be implemented in an offline data augmentation pipeline.
+
 
